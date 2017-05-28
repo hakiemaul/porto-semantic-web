@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navbar-nav li .top-nav {
+  color: white;
+  font-size: .9em;
+  padding: 2px 15px;
+}
+
+.navbar-inverse {
+  min-height: 30px;
+}
+
+.navbar-default {
+  min-height: 40px;
+}
+
+.tes {
+  float: none;
+}
+
+.logo-header {
+  max-height: 50px;
+}
